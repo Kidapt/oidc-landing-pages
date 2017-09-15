@@ -32,6 +32,6 @@
     "commit": "9d05a63ecde26d1bc2c2e4949f210774bc3bd9d4"
   },
   "_source": "https://github.com/SpringRoll/Bellhop.git",
-  "_target": "*",
+  "_target": "^1.2.0",
   "_originalSource": "bellhop"
 }

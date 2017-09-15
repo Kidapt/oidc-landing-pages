@@ -21,6 +21,6 @@
     "tests"
   ],
   "dependencies": {
-    "springroll-container": "^0.5.3"
+    "bellhop": "^1.2.0"
   }
 }
