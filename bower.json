@@ -1,0 +1,26 @@
+{
+  "name": "oidc-landing-pages",
+  "homepage": "https://github.com/Kidapt/oidc-landing-pages",
+  "authors": [
+    "Solomon Liu <sliu198@gmail.com>"
+  ],
+  "description": "Landing pages for ALP web-based OIDC authentication",
+  "main": "",
+  "keywords": [
+    "kidaptive",
+    "alp",
+    "oidc"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "springroll-container": "^0.5.3"
+  }
+}

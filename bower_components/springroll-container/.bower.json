@@ -1,0 +1,43 @@
+{
+  "name": "springroll-container",
+  "version": "0.5.3",
+  "main": "dist/container.min.js",
+  "dependencies": {
+    "bellhop": "*",
+    "jquery": "*"
+  },
+  "devDependencies": {
+    "easeljs": "https://github.com/SpringRoll/EaselJS.git",
+    "qunit": "*",
+    "springroll": "*",
+    "google-code-prettify": "*",
+    "bind-polyfill": "*"
+  },
+  "ignore": [
+    ".bowerrc",
+    ".editorconfig",
+    ".gitattributes",
+    ".gitignore",
+    ".jsbeautifyrc",
+    ".npmignore",
+    ".travis.yml",
+    "Gruntfile.js",
+    "library.json",
+    "tasks",
+    "examples",
+    "docs",
+    "src",
+    "test"
+  ],
+  "homepage": "https://github.com/SpringRoll/SpringRollContainer",
+  "_release": "0.5.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.5.3",
+    "commit": "a31371904b631c6109bc98b1d11549a51905096a"
+  },
+  "_source": "https://github.com/SpringRoll/SpringRollContainer.git",
+  "_target": "^0.5.3",
+  "_originalSource": "springroll-container",
+  "_direct": true
+}
